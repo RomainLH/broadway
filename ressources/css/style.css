@@ -1,6 +1,7 @@
 html {
   font-family: helvetica;
   text-align: center;
+  font-size: 14px;
 }
 
 #header {
@@ -13,9 +14,30 @@ h1 {
   font-weight: bold;
 }
 
+a {
+  font-size: 18px;
+  color: white;
+}
+
+h2 {
+  font-size: 32px;
+}
+
 .title {
   font-family: helvetica;
-  font-size: 32px;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+h3 {
+  background-image: url(../images/the-flatiron-building.png);
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+
+#portfolio, #team, #contact {
+  font-size: 23px;
   font-weight: bold;
 }
 
